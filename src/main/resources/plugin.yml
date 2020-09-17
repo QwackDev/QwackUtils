@@ -3,3 +3,11 @@ version: @version@
 main: me.qwackdevelopment.qwackutils.QwackUtils
 api-version: 1.16
 authors: [ QwackDev ]
+
+commands:
+  Fly:
+    description: Make you fly or another player.
+  God:
+    description: Enables god mode.
+  Kill:
+    description: Ruin someones life.

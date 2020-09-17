@@ -1,0 +1,11 @@
+# QwackUtils configuration
+## Color codes are supported in strings.
+
+
+## God-Related
+god-onEnable: "You are now a god"
+god-onDisable: "You are no longer a god."
+
+## Fly-Related
+fly-onEnable: "You can now fly"
+fly-onDisable: "You can no longer fly"
